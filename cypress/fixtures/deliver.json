@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Luis Henrique Lipinski",
+        "cpf": "00000012348",
+        "email": "luludapomerania@gmail.com",
+        "whatsapp": "41992561300",
+        "address": {
+            "postalcode": "80630060",
+            "street": "Avenida da República",
+            "number": "300",
+            "details": "Ap 200",
+            "district": "Guaíra",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Documento Invalido",
+        "cpf": "000000123aa",
+        "email": "documentoinvalido@gmail.com",
+        "whatsapp": "41992561300",
+        "address": {
+            "postalcode": "80630060",
+            "street": "Avenida da República",
+            "number": "300",
+            "details": "Ap 200",
+            "district": "Guaíra",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Email Invalido",
+        "cpf": "00000012348",
+        "email": "emailinvalido.com.br",
+        "whatsapp": "41992561300",
+        "address": {
+            "postalcode": "80630060",
+            "street": "Avenida da República",
+            "number": "300",
+            "details": "Ap 200",
+            "district": "Guaíra",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
